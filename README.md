@@ -9,3 +9,9 @@
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=yuri-val&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-val&layout=compact" />
 </div>
+
+---
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=yuri-val&skills=JavaScript,Ruby,React,Vue"
+/>
