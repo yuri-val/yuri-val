@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuri-valigursky) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12187898) [<img width="105" height="20" src="https://codersrank.io/wp-content/uploads/2019/11/cr-logo-horizontal-1.svg" style="background: white">](https://profile.codersrank.io/user/yuri-val/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuri-valigursky) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12187898) [<img width="105" height="20" src="./assets/codersrank.svg">](https://profile.codersrank.io/user/yuri-val/) 
 
 
 
