@@ -1,14 +1,4 @@
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <a target="_blank" href="https://app.daily.dev/yuri_v/posts"><img src="https://api.daily.dev/devcards/v2/pOdfndpm6vLvgRfYK60mr.png?r=pty&type=default" width="356" alt="Yuri V's Dev Card"/></a><br />
-      <h1>
-        👋 Hi, my name is Yuri 
-      </h1>
-    </summary>
-  </ul>
-</div>
 
  **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
