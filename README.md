@@ -40,8 +40,8 @@
         <a href="https://generatortracker.yuri-val.dev/">Website</a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
-        <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" alt="Expo" />
+        <img src="https://img.shields.io/badge/React_Native-087EA4?style=flat&logo=react&logoColor=white" alt="React Native" />
+        <img src="https://img.shields.io/badge/Expo-4630EB?style=flat&logo=expo&logoColor=white" alt="Expo" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white" alt="Firebase" />
       </p>
@@ -55,7 +55,7 @@
       </p>
       <p>
         <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" alt="Swift" />
-        <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS" />
+        <img src="https://img.shields.io/badge/macOS-555555?style=flat&logo=apple&logoColor=white" alt="macOS" />
         <img src="https://img.shields.io/github/v/release/yuri-val/mova-releases?style=flat&label=release" alt="Mova latest release" />
       </p>
     </td>
@@ -69,7 +69,7 @@
       </p>
       <p>
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/github/v/release/yuri-val/auto-pr-description-action?style=flat&label=release" alt="Latest release" />
       </p>
     </td>
@@ -81,7 +81,7 @@
       </p>
       <p>
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-        <img src="https://img.shields.io/badge/Shell-121011?style=flat&logo=gnubash&logoColor=white" alt="Shell" />
+        <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Shell" />
         <img src="https://img.shields.io/github/v/release/yuri-val/auto-pr-action?style=flat&label=release" alt="Latest release" />
       </p>
     </td>
@@ -115,10 +115,10 @@
 
 **Frontend and mobile**<br/>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-087EA4?style=flat&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-087EA4?style=flat&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-4630EB?style=flat&logo=expo&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
@@ -135,7 +135,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=claude&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6566F1?style=flat&logo=openrouter&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-555555?style=flat&logo=modelcontextprotocol&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-0F766E?style=flat)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
 
@@ -144,10 +144,10 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logoColor=black)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat&logo=homeassistant&logoColor=white)
-![ESPHome](https://img.shields.io/badge/ESPHome-000000?style=flat&logo=esphome&logoColor=white)
+![ESPHome](https://img.shields.io/badge/ESPHome-555555?style=flat&logo=esphome&logoColor=white)
 
 ---
 
